@@ -213,4 +213,4 @@ LINE is offered as a full free version, with all features and updates included. 
 Get started today with LINE! Download now and enjoy seamless communication with friends and family.
 
 ---
-**Last updated:** 2026-09-26 07:18:06 UTC
+**Last updated:** 2026-09-26 12:49:00 UTC
